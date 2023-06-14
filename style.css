@@ -1,0 +1,27 @@
+body{
+    background-color: #48e0ee;
+    color: white;
+}
+
+li{
+    font-size: 20px;
+}
+.navbar-brand{
+
+    color:#537FE7 ; font-size: 28px;
+}
+.navbar{
+    background-color: #C0EEF2;
+}
+
+.card1{
+    width: 19rem; background-color: #FFC93C; margin: 5%; 
+}
+
+.card2{
+    width: 19rem;  background-color: #0081C9; margin: 5%;
+}
+
+.card3{
+    width: 19rem; background-color: #E5BA73; margin: 5%;
+}
